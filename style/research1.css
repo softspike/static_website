@@ -1,0 +1,327 @@
+body{
+  font-family: 'Quattrocento Sans', sans-serif;
+  margin: 0;
+  background-color: #A993FF;
+  font-size: 1.5vw;
+}
+
+/*header-container--start*/
+
+.header-container{
+  display: grid;
+  background-color: #791B99;
+  padding: 1vw;
+  padding-top: 0;/*pakeista del burger*/
+  padding-bottom: 3vw;
+  font-size: 2vw;
+  font-family: 'Quattrocento', serif;
+}
+
+.menu {
+  display: grid;
+  text-align: left; /*pakeista del burger*/
+  grid-column-start: 2;
+  grid-row-start: 1;
+  grid-template-columns: 2fr 0.1fr 0.1fr 0.1fr 0.1fr; /* divided into 5 fractions, to place the items accordingly*/
+}
+
+.fade:hover {
+  opacity: 0.5;
+}
+
+.nx {
+  transition: 0.25s ease;
+}
+
+/*header-container--end*/
+
+/*burger---ADOPTED CODE START--*/
+
+/*The adopted and referenced burger menu code has been published by:
+* Author: W.S. Toh,
+* Retrieval date: 23/10/19,
+* URL: https://code-boxx.com/simple-responsive-pure-css-hamburger-menu/#
+*/
+
+#page-nav {
+  width: 100%;
+  /* If you want the navigation bar to stick on top
+  position: sticky;
+  top: 0;
+  */
+}
+
+/* Hide Burger applied on resolutions above 768px */
+#page-nav label, #hamburger {
+  display: none;
+}
+
+/* Menu Items applied on resolutions above 768px */
+#page-nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+#page-nav ul li {
+  display: inline-block;
+  padding: 7px; /*amended due to burger's element spacing*/
+  box-sizing: border-box;
+}
+
+#page-nav ul li a {
+  color: #fff;
+  text-decoration: none;
+}
+
+/*burger---ADOPTED CODE END--*/
+
+.research-heading {
+  padding-left: 1.5vw;
+  box-sizing: border-box; /*hover area*/
+  width: 50px;
+  height: 50px;
+}
+
+/*wrapper---start*/
+
+.wrapper{
+  display: grid;
+  grid-template-areas:
+  'research_img1 research-item1'
+  'research-item5 research_img2'
+  'research_img3 research-item3';
+  grid-row-gap: 5em;
+  grid-column-gap: 2em;
+  padding: 1.5vw;
+  padding-top: 0.2vw;
+  padding-bottom: 7.5vw;
+}
+
+.responsive {
+  object-fit: cover;
+  height: 100%;
+  width: 100%;
+  border: 1px solid black;
+}
+
+.research-h1 {
+  grid-area: research-h1;
+}
+
+.research-h2 {
+  grid-area: research-h2;
+}
+
+.research-h3 {
+  grid-area: research-h3;
+}
+
+.research-item1 {
+  text-align: right;
+  grid-area: research-item1;
+}
+
+.research-item5 {
+  text-align: left;
+  grid-area: research-item5;
+}
+
+.research-item3 {
+  text-align: right;
+  grid-area: research-item3;
+}
+
+.research_img1{
+  grid-area: research_img1;
+}
+
+.research_img2{
+  grid-area: research_img2;
+}
+
+.project_img3{
+  grid-area: research_img3;
+}
+
+.research-h1-phone, .research-h2-phone, .research-h3-phone{
+  display: none;
+}
+
+/*wrapper---end*/
+
+/*footer-container---start*/
+
+.footer-container {
+  display:grid;
+  grid-template-columns: 1fr 1fr;
+  background-color: #791B99;
+  color: #ee6352;
+  padding: 1.5vw;
+  padding-top: 0.5vw;
+  padding-bottom: 0.5vw;
+  font-size: 1.5vw;
+  font-family: 'Quattrocento', serif;
+}
+
+.pnty{
+  text-align: right;
+}
+
+.ft {
+  grid-column-start: 1;
+}
+
+/*footer-container---end*/
+
+cite {
+  font-size: .5vw;
+}
+
+a {
+  text-decoration: none;
+  color: #ee6352;
+}
+
+h1,h2{
+  font-family: 'Quattrocento', serif;
+}
+
+p {
+  font-family: 'Quattrocento Sans', sans-serif;
+}
+
+/************************************ MEDIA QUERIES**********************/
+
+/*burger @media---ADOPTED CODE START--*/
+
+/*The adopted and referenced burger menu code has been published by:
+* Author: W.S. Toh,
+* Retrieval date: 23/10/19,
+* URL: https://code-boxx.com/simple-responsive-pure-css-hamburger-menu/#
+*/
+
+@media screen and (min-width: 768px){
+#h2 {
+  display: none;
+}
+
+}
+
+/* [ON SMALL SCREENS] */
+@media screen and (max-width: 768px){
+  /* Show Hamburger */
+  #page-nav label {
+    color:#fff;
+    font-style: normal;
+    font-size: 1.7em;
+    padding: 0;
+    padding-right: 2vw; /*----reduced to fit into the burger---*/
+    display: inline-block;
+    position: absolute; /*----to set the burger's position with in the page---*/
+    right: 0; /*----position---*/
+    top: 0; /*----position---*/
+  }
+
+  /* Break down menu items into vertical */
+  #page-nav ul li {
+    display: block;
+  }
+
+  /* Toggle show/hide menu on checkbox click */
+  #page-nav ul {
+    display: none;
+  }
+  #page-nav input:checked ~ ul {
+    display: block;
+    text-align: right;
+    font-size: 5vw;
+  }
+
+  #h2 { /*ID h2 attribute added to comply with desing & responsive content */
+    display: grid;
+    grid-template-columns: 1fr 1fr; /* FR allows to position and break the item font as per customer requirements*/
+  }
+
+}
+/*burger @media---ADOPTED CODE END--*/
+
+/* Small devices (phones, 768px and down) */
+@media (max-width: 768px) {
+    .wrapper{
+      display:grid;
+      grid-template-areas:
+      'research-h1'
+      'research_img1'
+      'research-item1'
+      'research-h2'
+      'research_img2'
+      'research-item5'
+      'research-h3'
+      'research_img3 '
+      'research-item3';
+      grid-row-gap: 0;
+      padding-bottom: 0;
+}
+
+.research-h1, .research-h2, .research-h3{
+  display: none;
+}
+
+.research-h1-phone{
+  display: block;
+  text-align: right;
+  margin-bottom: 0;
+  margin-top: 2vw;
+}
+
+.research-h2-phone, .research-h3-phone{
+  display: block;
+  text-align: right;
+  margin-bottom: 0;
+}
+
+/*
+.research-p3 {
+  display: none;
+} */    /* to comply with the updated task please refer to M.Chorley's:  https://stackoverflow.com/c/comsc/questions/71 */
+
+.header-container{
+  padding-top: 2.5vw;
+  padding-bottom: 3.5vw;
+  font-size: 5vw;
+}
+
+.research-heading{
+  margin-bottom: 3.5vw;
+  font-size: 12vw;
+}
+
+.footer-container{
+  font-size: 5vw;
+  /* display: none; */ /* to comply with the updated task please refer to M.Chorley's:  https://stackoverflow.com/c/comsc/questions/71 */
+}
+
+.pnty {
+grid-column-start: 2;
+grid-row-start: 2;
+grid-row-end: 4;
+}
+
+h1, h2 {
+  font-size: 10vw;
+}
+
+p {
+  font-size: 5vw;
+  text-align: left;
+}
+
+cite {
+  font-size: 2.4vw;
+}
+
+#h1 {
+  display: none;
+}
+}
