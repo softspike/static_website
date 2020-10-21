@@ -43,8 +43,7 @@ $ npm start
 
 
 
-Examples of use
-In case of reusable code or your own library, providing a manual how to use our project might be necessary. It can work as a fragment of code:
+<p>Examples of use In case of reusable code or your own library, providing a manual how to use our project might be necessary. It can work as a fragment of code: </p>
 
 ## Code Examples
 To generate lorem ipsum use special shortcode: `put-your-code-here`
