@@ -26,8 +26,8 @@ Launch
 * [General info](#general-info)
 * [Technologies](#technologies)
 * [Setup](#setup)
-* [Code Examples](#Code Examples)
-* [Design Examples](#Design Examples)
+* [Code Examples](#Code_Examples)
+* [Design Examples](#Design_Examples)
 
 ## General info
 
