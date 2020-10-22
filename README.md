@@ -18,13 +18,30 @@ Introduction - the project's aim
 Technologies
 Launch
 
+
+
+
+
+
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
 * [Setup](#setup)
 
 ## General info
-This project is simple Lorem ipsum dolor generator.
+
+A prototype website for an important potential client – “PontyBridge University”. 
+
+In total, the following three pages has been created:
+ 
+1.           A homepage for the University.
+2.           The ‘Study’ page, listing some courses they offer.
+3.           The ‘Research’ page, listing some of their research projects.
+
+Wireframes provided for each of the three pages have been supplied detailing how they should look at both large (desktop) and small (mobile) resolutions.
+
+Valid HTML and CSS is used wherever possible, and the use of non-validating code is kept to a minimum.
+
 	
 ## Technologies
 Project is created with:
