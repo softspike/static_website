@@ -1,4 +1,4 @@
-# static_website
+## static_website
 
 ## Table of contents
 * [General info](#general-info)
