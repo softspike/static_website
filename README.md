@@ -26,6 +26,8 @@ Launch
 * [General info](#general-info)
 * [Technologies](#technologies)
 * [Setup](#setup)
+* [Code Examples](#Code Examples)
+* [Design Examples](#Design Examples)
 
 ## General info
 
@@ -37,11 +39,8 @@ In total, the following three pages has been created:
 2.           The ‘Study’ page, listing some courses they offer.
 3.           The ‘Research’ page, listing some of their research projects.
 
-Wireframes for each of the three pages have been supplied detailing how they should look at both large (desktop) and small (mobile) resolutions.
+Wire-frames for each of the three pages have been supplied detailing how they should look at both large (desktop) and small (mobile) resolutions.
 
-
-
-	
 ## Technologies
 Project is created with:
 </br>
