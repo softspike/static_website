@@ -11,7 +11,7 @@
 
 A prototype website for an important potential client – “PontyBridge University”. 
 
-In total, the following three pages has been created:
+In total, the following six pages (desktop & mobile) has been created:
  
 1.           A homepage for the University.
 2.           The ‘Study’ page, listing some courses they offer.
