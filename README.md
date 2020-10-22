@@ -1,26 +1,4 @@
-### static_website
-Coursework Static & Responsive University Website Prototype (wireframe provided). Built on: HTML & CSS 
-
-<h3>Includes title page:</h3>
-
-
-
-<img class="uni" src="../style/pictures/7615945272_d16746ea81_o.jpg" alt="Image of University">
-PontyBridge University - Homepage Design (desktop).pdf
-
-A good README is for others to understand what our code includes, and why it's noteworthy
-
-Make sure the file always includes the following elements:
-
-Titles and internal titles
-Introduction - the project's aim
-Technologies
-Launch
-
-
-
-
-
+# static_website
 
 ## Table of contents
 * [General info](#general-info)
