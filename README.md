@@ -72,7 +72,7 @@ which will be displayed as:
 # STATIC-WEBISTE-ACCORDING-TO-WIRE-FRAME
 Simple HTML5/CSS Static & Responsive 3 Webpages done according to <b>Designer's Wire Frame</b>
 
-# Example
+# Design Examples
 
 <img src="https://i.imgur.com/TlpBLnG.png" alt="Home page view Desktop" width="300" heigh="300"/>
 
