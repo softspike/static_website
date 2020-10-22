@@ -45,7 +45,7 @@ Wireframes for each of the three pages have been supplied detailing how they sho
 ## Technologies
 Project is created with:
 </br>
-* <a HTML version: 5<img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="25" height="25"/></a>
+* <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="25" height="25"/> HTML version: 5
 * <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="25" height="25"/>
 * 
 * CSS version: 3
