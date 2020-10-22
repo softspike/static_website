@@ -3,8 +3,7 @@ Coursework Static & Responsive University Website Prototype (wireframe provided)
 
 <h3>Includes title page:</h3>
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="25" height="25"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="25" height="25"/>
+
 
 <img class="uni" src="../style/pictures/7615945272_d16746ea81_o.jpg" alt="Image of University">
 PontyBridge University - Homepage Design (desktop).pdf
@@ -38,25 +37,30 @@ In total, the following three pages has been created:
 2.           The ‘Study’ page, listing some courses they offer.
 3.           The ‘Research’ page, listing some of their research projects.
 
-Wireframes provided for each of the three pages have been supplied detailing how they should look at both large (desktop) and small (mobile) resolutions.
+Wireframes for each of the three pages have been supplied detailing how they should look at both large (desktop) and small (mobile) resolutions.
 
-Valid HTML and CSS is used wherever possible, and the use of non-validating code is kept to a minimum.
+
 
 	
 ## Technologies
 Project is created with:
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="25" height="25"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="25" height="25"/>
 * Lorem version: 12.3
 * Ipsum version: 2.33
-* Ament library version: 999
-	
-## Setup
-To run this project, install it locally using npm:
 
-```
-$ cd ../lorem
-$ npm install
-$ npm start
-```
+Valid HTML and CSS is used wherever possible, and the use of non-validating code is kept to a minimum.
+
+## Setup
+
+Run the web pages in the development mode, inside folder static_website i.e.:
+
+command line:
+
+`python -m SimpleHTTPServer`
+
+check if the app is running on `http://0.0.0.0:8000/`
+
 
 ## Code Examples
 To generate lorem ipsum use special shortcode: `put-your-code-here`
@@ -76,17 +80,5 @@ Simple HTML5/CSS Static & Responsive 3 Webpages done according to <b>Designer's 
 <img src="https://i.imgur.com/iQmTSbm.png" alt="Home page view Desktop" width="400" heigh="100"/>
 
 <img src="https://i.imgur.com/KBj5R4Y.png" alt="Home page view Desktop" width="300" heigh="300"/>
-
-
-
-
-# Loading pages
-Run the web pages in the development mode, inside folder STATIC-WEBISTE-ACCORDING-TO-WIRE-FRAME i.e.:
-
-command line:
-
-`python -m SimpleHTTPServer`
-
-check if the app is running on `http://0.0.0.0:8000/`
 
 
