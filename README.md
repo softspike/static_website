@@ -3,7 +3,7 @@
 * [Technologies](#technologies)
 * [Setup](#setup)
 * [Code Examples](#Code-Examples)
-* [Wireframe Design](#Wireframe-Design)
+* [Design](#Design)
 
 ## General info
 
@@ -46,7 +46,7 @@ which will be displayed as:
 
 #########################
 
-## Wireframe Design
+## Design
 
 ### Home Page Design Desktop
 ![home_page_desktop](https://user-images.githubusercontent.com/47834415/96943570-785c4c80-14d0-11eb-8c00-217a854591d4.png)
