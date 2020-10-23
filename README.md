@@ -45,11 +45,10 @@ which will be displayed as:
 <p>Examples of use In case of reusable code or your own library, providing a manual how to use our project might be necessary. It can work as a fragment of code: </p>
 
 #########################
-# STATIC-WEBISTE-ACCORDING-TO-WIRE-FRAME
-Simple HTML5/CSS Static & Responsive 3 Webpages done according to <b>Designer's Wire Frame</b>
 
-# Wireframe Design
+## Wireframe Design
 
+kolia
 ![home_page_desktop](https://user-images.githubusercontent.com/47834415/96943570-785c4c80-14d0-11eb-8c00-217a854591d4.png)
 ![index html](https://user-images.githubusercontent.com/47834415/96943849-2e279b00-14d1-11eb-8fb0-2e808968734e.png)
 
