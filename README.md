@@ -6,7 +6,7 @@
 
 ## General info
 
-A prototype website for an important potential client – “PontyBridge University”. 
+A prototype website for an "important potential client" – PontyBridge University. 
 
 In total, the following six pages (desktop & mobile) has been created:
  
