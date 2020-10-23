@@ -51,16 +51,16 @@ which will be displayed as:
 ### Home Page Desktop
 
 <img src="https://user-images.githubusercontent.com/47834415/96943570-785c4c80-14d0-11eb-8c00-217a854591d4.png" alt="home_page_desktop" width="350" heigh="300"/>
-<img src="https://user-images.githubusercontent.com/47834415/96943849-2e279b00-14d1-11eb-8fb0-2e808968734e.png" alt="index_html" width="100"/>
+<img src="https://user-images.githubusercontent.com/47834415/96943849-2e279b00-14d1-11eb-8fb0-2e808968734e.png" alt="index_html" width="350" heigh="300"/>
 
 ### Home Page Mobile
-<img src="https://user-images.githubusercontent.com/47834415/96943988-94142280-14d1-11eb-9d2d-b4e7eb41a3b8.png" alt="home_page_mobile" width="100"/>
-<img src="https://user-images.githubusercontent.com/47834415/96944021-a5f5c580-14d1-11eb-8b2b-97f7f9e115df.png" alt="indexmob_html" width="100"/>
+<img src="https://user-images.githubusercontent.com/47834415/96943988-94142280-14d1-11eb-9d2d-b4e7eb41a3b8.png" alt="home_page_mobile" width="350" heigh="300"/>
+<img src="https://user-images.githubusercontent.com/47834415/96944021-a5f5c580-14d1-11eb-8b2b-97f7f9e115df.png" alt="indexmob_html" width="350" heigh="300"/>
 
 ### Study Page (Desktop & Mobile)
-<img src="https://user-images.githubusercontent.com/47834415/96944050-b6a63b80-14d1-11eb-8849-db508a33b8e1.png" alt="research_desktop" width="100"/>
-<img src="https://user-images.githubusercontent.com/47834415/96944065-c32a9400-14d1-11eb-8953-7e3d7586d8b9.png" alt="research_mobile" width="100"/>
+<img src="https://user-images.githubusercontent.com/47834415/96944050-b6a63b80-14d1-11eb-8849-db508a33b8e1.png" alt="research_desktop" width="350" heigh="300"/>
+<img src="https://user-images.githubusercontent.com/47834415/96944065-c32a9400-14d1-11eb-8953-7e3d7586d8b9.png" alt="research_mobile" width="350" heigh="300"/>
 
 ### Research Page (Desktop & Mobile)
-<img src="https://user-images.githubusercontent.com/47834415/96944081-ccb3fc00-14d1-11eb-88f8-835bd0256abc.png" alt="study_desktop" width="100"/>
-<img src="https://user-images.githubusercontent.com/47834415/96944100-d63d6400-14d1-11eb-96b0-0b4458e89802.png" alt="study_mobile" width="100"/>
+<img src="https://user-images.githubusercontent.com/47834415/96944081-ccb3fc00-14d1-11eb-88f8-835bd0256abc.png" alt="study_desktop" width="350" heigh="300"/>
+<img src="https://user-images.githubusercontent.com/47834415/96944100-d63d6400-14d1-11eb-96b0-0b4458e89802.png" alt="study_mobile" width="350" heigh="300"/>
