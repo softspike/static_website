@@ -50,6 +50,8 @@ Simple HTML5/CSS Static & Responsive 3 Webpages done according to <b>Designer's 
 
 # Design Examples
 
+![home_page_desktop](https://user-images.githubusercontent.com/47834415/96943570-785c4c80-14d0-11eb-8c00-217a854591d4.png)
+
 <img src="https://i.imgur.com/TlpBLnG.png" alt="Home page view Desktop" width="300" heigh="300"/>
 
 <img src="https://i.imgur.com/iQmTSbm.png" alt="Home page view Desktop" width="400" heigh="100"/>
