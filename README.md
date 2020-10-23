@@ -2,7 +2,6 @@
 * [General info](#general-info)
 * [Technologies](#technologies)
 * [Setup](#setup)
-* [Code Examples](#Code-Examples)
 * [Design](#Design)
 
 ## General info
@@ -38,42 +37,6 @@ command line:
 `python -m SimpleHTTPServer`
 
 check if the app is running on `http://0.0.0.0:8000/`
-
-
-## Code Examples
-
-To indicate reusable code
-
-CSS grid, which will be displayed as:
-
-`
-    <div class="course_img1">
-      <img class="responsive " src="../style/pictures/14905981935_899f9cfcfb_o.jpg" alt="Course-1"><cite><a href="https://www.flickr.com/photos/nolnet/4368698058">Jörn, Silke and Mo</a> by nolnet (CC BY-NC 2.0)</cite>
-    </div>
-
-
-.wrapper{
-  display:grid;
-  grid-template-areas:
-  'course_img1 course-item1'
-  'course-item5 course_img2'
-  'course_img3 course-item3';
-  grid-row-gap: 5em;
-  grid-column-gap: 2em;
-  padding: 1.5vw;
-  padding-top: 0.2vw;
-  padding-bottom: 7.5vw;
-}`
-
-
-which will be displayed as:
-
-css flexbox
-
-
-<p>Examples of use In case of reusable code or your own library, providing a manual how to use our project might be necessary. It can work as a fragment of code: </p>
-
-#########################
 
 ## Design
 
