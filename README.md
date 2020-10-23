@@ -41,6 +41,8 @@ check if the app is running on `http://0.0.0.0:8000/`
 
 
 ## Code Examples
+
+CSS grid ;/ css flexbox
 To generate lorem ipsum use special shortcode: `put-your-code-here`
 
 which will be displayed as:
