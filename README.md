@@ -50,9 +50,9 @@ which will be displayed as:
 
 ### Home Page Desktop
 
-<img src="https://user-images.githubusercontent.com/47834415/96943570-785c4c80-14d0-11eb-8c00-217a854591d4.png" width="100"/>
-![home_page_desktop](https://user-images.githubusercontent.com/47834415/96943570-785c4c80-14d0-11eb-8c00-217a854591d4.png)
-![index html](https://user-images.githubusercontent.com/47834415/96943849-2e279b00-14d1-11eb-8fb0-2e808968734e.png)
+<img src="https://user-images.githubusercontent.com/47834415/96943570-785c4c80-14d0-11eb-8c00-217a854591d4.png" alt="home_page_desktop" width="100"/>
+<img src="https://user-images.githubusercontent.com/47834415/96943849-2e279b00-14d1-11eb-8fb0-2e808968734e.png" alt="index html" width="100"/>
+
 ### Home Page Mobile
 ![home_page_mobile](https://user-images.githubusercontent.com/47834415/96943988-94142280-14d1-11eb-9d2d-b4e7eb41a3b8.png)
 ![indexmob html](https://user-images.githubusercontent.com/47834415/96944021-a5f5c580-14d1-11eb-8b2b-97f7f9e115df.png)
