@@ -50,7 +50,7 @@ which will be displayed as:
 
 ### Home Page Desktop
 
-<img src="https://user-images.githubusercontent.com/47834415/96943570-785c4c80-14d0-11eb-8c00-217a854591d4.png" alt="home_page_desktop" width="100"/>
+<img src="https://user-images.githubusercontent.com/47834415/96943570-785c4c80-14d0-11eb-8c00-217a854591d4.png" alt="home_page_desktop" width="300" heigh="300"/>
 <img src="https://user-images.githubusercontent.com/47834415/96943849-2e279b00-14d1-11eb-8fb0-2e808968734e.png" alt="index_html" width="100"/>
 
 ### Home Page Mobile
@@ -64,17 +64,3 @@ which will be displayed as:
 ### Research Page (Desktop & Mobile)
 <img src="https://user-images.githubusercontent.com/47834415/96944081-ccb3fc00-14d1-11eb-88f8-835bd0256abc.png" alt="study_desktop" width="100"/>
 <img src="https://user-images.githubusercontent.com/47834415/96944100-d63d6400-14d1-11eb-96b0-0b4458e89802.png" alt="study_mobile" width="100"/>
-
-
-
-<h3>Home Page Design Desktop</h3>
-<h3>Home Page Design Mobile</h3>
-<h3>Study Page Design (Desktop & Mobile)</h3>
-<h3>Research Page Design (Desktop & Mobile)</h3>
-<img src="https://i.imgur.com/TlpBLnG.png" alt="Home page view Desktop" width="300" heigh="300"/>
-
-<img src="https://i.imgur.com/iQmTSbm.png" alt="Home page view Desktop" width="400" heigh="100"/>
-
-<img src="https://i.imgur.com/KBj5R4Y.png" alt="Home page view Desktop" width="300" heigh="300"/>
-
-
