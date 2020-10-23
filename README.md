@@ -47,14 +47,14 @@ To indicate reusable code
 CSS grid, which will be displayed as:
 
 `
-#html
+
 
  <h2 class="course-h1-phone">Course Name 1</h2>
     <div class="course_img1">
       <img class="responsive " src="../style/pictures/14905981935_899f9cfcfb_o.jpg" alt="Course-1"><cite><a href="https://www.flickr.com/photos/nolnet/4368698058">Jörn, Silke and Mo</a> by nolnet (CC BY-NC 2.0)</cite>
     </div>
 
-#css
+
 
 .wrapper{
   display:grid;
