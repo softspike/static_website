@@ -27,8 +27,11 @@ Project is created with:
 Valid HTML and CSS is used wherever possible, and the use of non-validating code is kept to a minimum.
 
 ## Setup
+Navigate to HTML file location static_website/structure, highlight the document and click Open.
 
-Run the web pages in the development mode, inside folder static_website i.e.:
+OR
+
+Run the web pages in the development mode, inside folder static_website/structure i.e.:
 
 command line:
 
