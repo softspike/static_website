@@ -59,4 +59,8 @@ which will be displayed as:
 <img src="https://user-images.githubusercontent.com/47834415/96944050-b6a63b80-14d1-11eb-8849-db508a33b8e1.png" alt="research_desktop" width="350" heigh="300"/><img src="https://user-images.githubusercontent.com/47834415/96944065-c32a9400-14d1-11eb-8953-7e3d7586d8b9.png" alt="research_mobile" width="150" heigh="300"/>
 
 ### Research Page (Desktop & Mobile)
-<img src="https://user-images.githubusercontent.com/47834415/96944081-ccb3fc00-14d1-11eb-88f8-835bd0256abc.png" alt="study_desktop" width="350" heigh="300"/><img src="https://user-images.githubusercontent.com/47834415/96944100-d63d6400-14d1-11eb-96b0-0b4458e89802.png" alt="study_mobile" width="150" heigh="300"/>
+<img src="https://user-images.githubusercontent.com/47834415/96944081-ccb3fc00-14d1-11eb-88f8-835bd0256abc.png" alt="study_desktop" width="350" heigh="300"/><img src="https://user-images.githubusercontent.com/47834415/96947172-5ff12f80-14da-11eb-9102-2a401979285f.png" alt="study_mobile" width="150" heigh="300"/>
+<img src="https://user-images.githubusercontent.com/47834415/96944100-d63d6400-14d1-11eb-96b0-0b4458e89802.png" alt="study_mobile" width="150" heigh="300"/>
+
+
+
