@@ -49,6 +49,8 @@ which will be displayed as:
 ## Design
 
 ### Home Page Desktop
+
+<img src="https://user-images.githubusercontent.com/47834415/96943570-785c4c80-14d0-11eb-8c00-217a854591d4.png" alt="html5" width="35" height="35"/> HTML 5
 ![home_page_desktop](https://user-images.githubusercontent.com/47834415/96943570-785c4c80-14d0-11eb-8c00-217a854591d4.png)
 ![index html](https://user-images.githubusercontent.com/47834415/96943849-2e279b00-14d1-11eb-8fb0-2e808968734e.png)
 ### Home Page Mobile
