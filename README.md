@@ -50,7 +50,7 @@ which will be displayed as:
 
 ### Home Page Desktop
 
-<img src="https://user-images.githubusercontent.com/47834415/96943570-785c4c80-14d0-11eb-8c00-217a854591d4.png" alt="home_page_desktop" width="400" heigh="300"/>
+<img src="https://user-images.githubusercontent.com/47834415/96943570-785c4c80-14d0-11eb-8c00-217a854591d4.png" alt="home_page_desktop" width="350" heigh="300"/>
 <img src="https://user-images.githubusercontent.com/47834415/96943849-2e279b00-14d1-11eb-8fb0-2e808968734e.png" alt="index_html" width="100"/>
 
 ### Home Page Mobile
